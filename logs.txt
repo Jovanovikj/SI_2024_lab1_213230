@@ -1,0 +1,77 @@
+///////од гранката мастер:
+
+commit 439e80778c176645ff1457924d85f2827aeeba33 (HEAD -> master, origin/master, bug2)
+Merge: 4735554 c4890b6
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 19:53:34 2024 +0200
+
+    Call method BigStringFrom in main class
+
+commit 4735554183b98168d1a8fd45aae500be5c23348b
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:17:48 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 571b7e15aed50b4e0c67893e837ee2be39c4dd25
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:13:10 2024 +0200
+
+    Fix Fix wrong condition in makeBigStringFrom
+
+commit c4890b69b86e05caf28c3f9dc24a98a323edb134 (origin/bug2)
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:17:48 2024 +0200
+
+/////// од гранката bug1
+
+commit db964197479e2e6aeb9e9ee91117b066c7db9d2e (HEAD -> bug1, origin/bug1)
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:16:08 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ab5e0fafaccb25996e2cf0aa2bc30aae907f6a18
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:10:28 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0e82f02bcb9985c7f13617cf31e5735b210b2a70
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 01:30:54 2024 +0200
+
+    Add starter code
+
+commit 256937770cafad9a8a2b05d2896ac12fa22c67e7
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 01:26:05 2024 +0200
+
+    Initial commit
+
+/////// од гранката bug2
+
+commit 439e80778c176645ff1457924d85f2827aeeba33 (HEAD -> bug2, origin/master, master)
+Merge: 4735554 c4890b6
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 19:53:34 2024 +0200
+
+    Call method BigStringFrom in main class
+
+commit 4735554183b98168d1a8fd45aae500be5c23348b
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:17:48 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 571b7e15aed50b4e0c67893e837ee2be39c4dd25
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:13:10 2024 +0200
+
+    Fix Fix wrong condition in makeBigStringFrom
+
+commit c4890b69b86e05caf28c3f9dc24a98a323edb134 (origin/bug2)
+Author: Jovanovikj <david.jov13@gmail.com>
+Date:   Sun Apr 14 02:17:48 2024 +0200
+
+
